@@ -1,14 +1,16 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+### Reg No: 212224040275
+### Name: Rhudhra phriyamvadha K S
+### Date: 13.10.2025
 
 
 # AIM:
+
 To develop the Railway Reservation System using Star UML.
 
 # Problem Statement:
+
 1.The manual railway ticket booking system is time-consuming, error-prone, and inconvenient for both passengers and railway staff, especially during peak travel periods.
 
 2.Passengers often face difficulties such as unavailability of real-time seat information, long queues at booking counters, and a lack of transparency in ticket status.
@@ -20,16 +22,17 @@ To develop the Railway Reservation System using Star UML.
 5.The system should allow users to easily search trains, reserve or cancel tickets, view PNR status, and receive confirmation through SMS/email while ensuring secure payment processing.
 
 
-UML DIAGRAMS
+# UML DIAGRAMS
 
-# USE CASE DIAGRAM
+## USE CASE DIAGRAM
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
 UML is the modeling toolkit that you can use to build your diagrams. Use cases are represented with a labeled oval shape.
 
 Stick figures represent actors in the process, and the actor's participation in the system is modeled with a line between the actor and use case.
-# UML use case diagrams are ideal for:
+
+### UML use case diagrams are ideal for:
 
 Representing the goals of system-user interactions
 
@@ -40,12 +43,10 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="809" height="835" alt="image" src="https://github.com/user-attachments/assets/9b3e669e-beb1-4ea5-8f58-1d0b506bc323" />
 
 
-
-
-
-# CLASS DIAGRAM
+## CLASS DIAGRAM
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -59,18 +60,19 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="694" height="731" alt="image" src="https://github.com/user-attachments/assets/de9ef7a8-7d7a-49eb-b7ed-c33e2ca701c3" />
 
 
-# COMMUNICTION DIAGRAM:
+## COMMUNICTION DIAGRAM:
 
 A communication diagram offers the same information as a sequence diagram, but while a sequence diagram emphasizes the time and order of events, a communication diagram emphasizes the messages exchanged between objects in an application. Sequence diagrams can fall short of offering the "big picture."
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="962" height="828" alt="image" src="https://github.com/user-attachments/assets/dfa15bb9-bf20-48a8-bb8c-b60f0fe75c2b" />
 
 
-
-# PACKAGE DIAGRAM:
+## PACKAGE DIAGRAM:
 
 Package diagrams are structural diagrams used to show the organization and arrangement of various model elements in the form of packages. A package is a grouping of related UML elements, such as diagrams, documents, classes, or even other packages. Each element is nested within the package, which is depicted as a file folder within the diagram, then arranged hierarchically within the diagram. Package diagrams are most commonly used to provide a visual
 
@@ -79,13 +81,10 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="586" height="419" alt="image" src="https://github.com/user-attachments/assets/487ab194-15d7-47a4-96b4-c0925231e1fb" />
 
-
-
-
-
-
-# ACTIVITY DIAGRAM:
+ 
+## ACTIVITY DIAGRAM:
 
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
@@ -98,17 +97,17 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="747" height="953" alt="image" src="https://github.com/user-attachments/assets/d73895e8-2989-4ef6-a452-58a9d28b6497" />
 
 
-
-# SEQUENCE DIAGRAM
+## SEQUENCE DIAGRAM
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
 
-# BENEFITS OF SEQUENCE DIAGRAM
+### BENEFITS OF SEQUENCE DIAGRAM
 
 Sequence diagrams can be useful references for businesses and other organizations. Try drawing a sequence diagram to:
 
@@ -119,11 +118,10 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="883" height="832" alt="image" src="https://github.com/user-attachments/assets/5e48a654-5091-452b-bd89-a46dfbd6bcde" />
 
 
 
-
-# RESULT
-
+# RESULT:
 Thus the project to develop Railway Reservation system was developed using Star UML Software is done successfully.
 
